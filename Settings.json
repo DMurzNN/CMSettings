@@ -1,1 +1,37 @@
-{"IsDeveloper":false,"ForgeTransform":{"LocalPosition":{"x":0.0,"y":0.0,"z":0.0},"LocalEuler":{"x":0.0,"y":0.0,"z":0.0},"LocalScale":{"x":1.0,"y":1.0,"z":1.0}},"PotteryTransform":{"LocalPosition":{"x":0.0,"y":0.0,"z":0.0},"LocalEuler":{"x":0.0,"y":0.0,"z":0.0},"LocalScale":{"x":1.0,"y":1.0,"z":1.0}}}
+{
+    "IsDeveloper": false,
+    "ForgeTransform": {
+        "LocalPosition": {
+            "x": 0.3,
+            "y": 1.168,
+            "z": -1.404
+        },
+        "LocalEuler": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    },
+    "PotteryTransform": {
+        "LocalPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "LocalEuler": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "LocalScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+        }
+    }
+}
