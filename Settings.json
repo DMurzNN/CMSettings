@@ -2,9 +2,9 @@
     "IsDeveloper": false,
     "ForgeTransform": {
         "LocalPosition": {
-            "x": 0.3,
-            "y": 1.168,
-            "z": -1.404
+            "x": 0.30000001192092898,
+            "y": 1.1679999828338624,
+            "z": -1.4040000438690186
         },
         "LocalEuler": {
             "x": 0.0,
@@ -33,5 +33,22 @@
             "y": 1.0,
             "z": 1.0
         }
+    },
+    "MarkersUrl": "https://gitlab.com/",
+    "AppRateUrls": {
+        "Values": [
+            {
+                "TargetPlatform": 7,
+                "Value": "https://yandex.ru/"
+            },
+            {
+                "TargetPlatform": 11,
+                "Value": "https://duckduckgo.com/"
+            },
+            {
+                "TargetPlatform": 8,
+                "Value": "https://www.google.com/"
+            }
+        ]
     }
 }
