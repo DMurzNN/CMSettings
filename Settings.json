@@ -51,20 +51,20 @@
             "z": 1.0
         }
     },
-    "MarkersUrl": "https://mixar.biz/content/craft-markers.pdf",
+    "MarkersUrl": "https://mix-ar.ru/content/craft-markers.pdf",
     "AppRateUrls": {
         "Values": [
             {
                 "TargetPlatform": 7,
-                "Value": "https://mixar.biz/content/craft-museum.html"
+                "Value": "https://mix-ar.ru/content/craft-museum.html"
             },
             {
                 "TargetPlatform": 8,
-                "Value": "https://mixar.biz/content/craft-museum.html"
+                "Value": "https://mix-ar.ru/content/craft-museum.html"
             },
             {
                 "TargetPlatform": 11,
-                "Value": "https://mixar.biz/content/craft-museum.html"
+                "Value": "https://mix-ar.ru/content/craft-museum.html"
             }
         ]
     }
